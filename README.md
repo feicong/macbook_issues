@@ -28,7 +28,7 @@
 |bigfacecat1208|第87页 访问控制 小节|错别字pbulic|改为public|
 |bigfacecat1208|第70页第1行|字典的下表操作|修改为“字典的下标操作”|
 |bigfacecat1208|第98页倒数第3行|“二进制版本是storybordc“中storybordc拼写错误|修改为“二进制版本是storyboardc“|
-|飘云|第409页倒数第9行|oxCC|修改为0xCC|
+|飘云|第409页倒数第9、10行|oxCC|修改为0xCC|
 |飘云|第94页倒数第5行|Visual Studo Code|修改为Visual Studio Code  |
 |飘云|第97页第4、5行|Visual Studo Code|修改为Visual Studio Code  |
 |飘云|目录3.5.4以及所有引用到的地方|Visual Studo Code|修改为Visual Studio Code  |
