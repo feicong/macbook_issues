@@ -31,6 +31,6 @@
 |飘云|第409页倒数第9行|oxCC|修改为0xCC|
 |飘云|第94页倒数第5行|Visual Studo Code|修改为Visual Studio Code  |
 |飘云|第97页第4、5行|Visual Studo Code|修改为Visual Studio Code  |
-|飘云|目录3.5.4以及所有引用到的地方|Visual Studo Code|修改为Visual Studio Code  |
+|飘云|目录3.5.4以及所有引用到的地方|Visual Studo Code|修改为Visual Studio Code  |
 
 
