@@ -34,6 +34,7 @@
 |bigfacecat1208|第102页最后1行|base64编码|应与上下文统一，改为Base64|
 |bigfacecat1208|第108页第5行|小标题“CodeSignature目录”错误|修改为“_CodeSignature目录”|
 |bigfacecat1208|第110页第11行|"下来看一下通用……"中缺个“面”字|加上“面”字|
+|bigfacecat1208|第398页第10行|路径名中Applicaton拼错|改为Application|
 |bigfacecat1208|第432页倒数第7行|刚接解|改为“刚接触”|
 |bigfacecat1208|第458页倒数第4行|碰盘管理|磁盘管理|
 |飘云|第94页倒数第5行|Visual Studo Code|修改为Visual Studio Code  |
