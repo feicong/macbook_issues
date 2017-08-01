@@ -45,6 +45,5 @@
 |飘云|第279第4行|Dacula风格|Darcula风格|
 |飘云|第409页倒数第9、10行|oxCC|修改为0xCC|
 |everettjf|第4页 “提示”文字|./configure --disable-x11-text-mode|./configure --disable-x11-textmode （textmode之间没有-）|
-|bigfacecat1208|第432页 倒数第7行|刚接解|改为“刚接触”|
 
 
