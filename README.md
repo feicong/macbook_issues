@@ -34,10 +34,13 @@
 |bigfacecat1208|第102页最后1行|base64编码|应与上下文统一，改为Base64|
 |bigfacecat1208|第108页第5行|小标题“CodeSignature目录”错误|修改为“_CodeSignature目录”|
 |bigfacecat1208|第110页第11行|"下来看一下通用……"中缺个“面”字|加上“面”字|
-|bigfacecat1208|第458页倒数第4行|碰盘管理|磁盘管理|
-|飘云|第409页倒数第9、10行|oxCC|修改为0xCC|
+|bigfacecat1208|第458页倒数第4行|碰盘管理|磁盘管理|
 |飘云|第94页倒数第5行|Visual Studo Code|修改为Visual Studio Code  |
 |飘云|第97页第4、5行|Visual Studo Code|修改为Visual Studio Code  |
-|飘云|目录3.5.4以及所有引用到的地方|Visual Studo Code|修改为Visual Studio Code  |
-
+|飘云|目录3.5.4以及所有引用到的地方|Visual Studo Code|修改为Visual Studio Code|
+|飘云|第229页倒数2、3行|IDA Pro菜单Edit->Patch Pragma|修改为Patch Program|
+|飘云|第274第1行|in th license|in the license|
+|飘云|第279第2行|Evaluate free|Evaluate for free|
+|飘云|第279第4行|Dacula风格|Darcula风格|
+|飘云|第409页倒数第9、10行|oxCC|修改为0xCC|
 
