@@ -25,9 +25,16 @@
 
 |提交人员|位置|问题|修改|
 |----|----|----|----|
-|bigfacecat1208|第87页 访问控制 小节|错别字pbulic|改为public|
 |bigfacecat1208|第70页第1行|字典的下表操作|修改为“字典的下标操作”|
+|bigfacecat1208|第87页 访问控制 小节|错别字pbulic|改为public|
 |bigfacecat1208|第98页倒数第3行|“二进制版本是storybordc“中storybordc拼写错误|修改为“二进制版本是storyboardc“|
+|bigfacecat1208|第100页第2行|"Project Nevigator"中拼写错误|修改为“Project Navigator”|
+|bigfacecat1208|第100页第4行|“Axes Idependently”拼写错误|修改为“Axes Independently”|
+|bigfacecat1208|第101页第1行|“Text Failed”中拼写错误|修改为“Text Field”|
+|bigfacecat1208|第102页最后1行|base64编码|应与上下文统一，改为Base64|
+|bigfacecat1208|第108页第5行|小标题“CodeSignature目录”错误|修改为“_CodeSignature目录”|
+|bigfacecat1208|第110页第11行|"下来看一下通用……"中缺个“面”字|加上“面”字|
+|bigfacecat1208|第458页倒数第4行|碰盘管理|磁盘管理|
 |飘云|第409页倒数第9、10行|oxCC|修改为0xCC|
 |飘云|第94页倒数第5行|Visual Studo Code|修改为Visual Studio Code  |
 |飘云|第97页第4、5行|Visual Studo Code|修改为Visual Studio Code  |
