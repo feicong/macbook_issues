@@ -34,6 +34,7 @@
 |bigfacecat1208|第102页最后1行|base64编码|应与上下文统一，改为Base64|
 |bigfacecat1208|第108页第5行|小标题“CodeSignature目录”错误|修改为“_CodeSignature目录”|
 |bigfacecat1208|第110页第11行|"下来看一下通用……"中缺个“面”字|加上“面”字|
+|bigfacecat1208|第156页第2、4行|框架目录中System目录前应加“/”|修改为"/System"|
 |bigfacecat1208|第359页第3行、360页、361页、362页|标题与内容中的“Swizzing”拼错了|改为Swizzling|
 |bigfacecat1208|第398页第10行|路径名中Applicaton拼错|改为Application|
 |bigfacecat1208|第432页倒数第7行|刚接解|改为“刚接触”|
