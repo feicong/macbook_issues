@@ -35,6 +35,9 @@
 |bigfacecat1208|第108页第5行|小标题“CodeSignature目录”错误|修改为“_CodeSignature目录”|
 |bigfacecat1208|第110页第11行|"下来看一下通用……"中缺个“面”字|加上“面”字|
 |bigfacecat1208|第156页第2、4行|框架目录中System目录前应加“/”|修改为"/System"|
+|bigfacecat1208|第184页倒数第3行|”mian.c源文件“拼错了|改为“main.c”|
+|bigfacecat1208|第186页第6行|C语言的多行注释写错了|改为“/* */”|
+|bigfacecat1208|第187页表5-1中第4行|“-static时”后面内容中标点符号错误使用了“、”|改为“,”|
 |bigfacecat1208|第359页第3行、360页、361页、362页|标题与内容中的“Swizzing”拼错了|改为Swizzling|
 |bigfacecat1208|第398页第10行|路径名中Applicaton拼错|改为Application|
 |bigfacecat1208|第432页倒数第7行|刚接解|改为“刚接触”|
