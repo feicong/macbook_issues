@@ -40,6 +40,8 @@
 |bigfacecat1208|第187页表5-1中第4行|“-static时”后面内容中标点符号错误使用了“、”|改为“,”|
 |bigfacecat1208|第193页第10行|助记符的英文拼写错误|改为mnemonic|
 |bigfacecat1208|第196页5.4.5节的第3行|“分为两堆和栈个部分”为病句|改为“分为堆和栈两个部分”|
+|bigfacecat1208|第199页第1行|“应为”写错了|改为“因为”|
+|bigfacecat1208|第200页第13行|“macoOS”拼错了|改为“macOS”|
 |bigfacecat1208|第359页第3行、360页、361页、362页|标题与内容中的“Swizzing”拼错了|改为Swizzling|
 |bigfacecat1208|第398页第10行|路径名中Applicaton拼错|改为Application|
 |bigfacecat1208|第432页倒数第7行|刚接解|改为“刚接触”|
