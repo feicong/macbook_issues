@@ -47,7 +47,8 @@
 |bigfacecat1208|第262页第3行|"cm01程序"写错了|改为”cm02程序“|
 |bigfacecat1208|第263页第6行|”NSAAlert函数“拼错了|改为”NSAlert“|
 |bigfacecat1208|第286页倒数第9行|“ptrace函数一个有4个参数”中个字写错了|改为“一共”|
-|bigfacecat1208|第359页第3行、360页、361页、362页|标题与内容中的“Swizzing”拼错了|改为Swizzling|
+|bigfacecat1208|第336页正文倒数第4行|“esi寄存器存放后面的isASCII参数”中寄存器写错了|改为"edx"|
+|bigfacecat1208|第351页倒数第2行、第359页第3行、360页、361页、362页|标题与内容中的“Swizzing”拼错了|改为Swizzling|
 |bigfacecat1208|第398页第10行|路径名中Applicaton拼错|改为Application|
 |bigfacecat1208|第432页倒数第7行|刚接解|改为“刚接触”|
 |bigfacecat1208|第458页倒数第4行|碰盘管理|磁盘管理|
