@@ -61,6 +61,8 @@
 |飘云|第279第4行|Dacula风格|Darcula风格|
 |飘云|第409页倒数第9、10行|oxCC|修改为0xCC|
 |everettjf|第4页 “提示”文字|./configure --disable-x11-text-mode|./configure --disable-x11-textmode （textmode之间没有-）|
+|everettjf|第191页第3行|比如EAX寄存器赋值为1，则整个REX寄存器也会被赋值为1|REX改为RAX|
+|everettjf|第196页第9行（5.4.5节第3行）|这个区域分为两堆和栈个部分|这个区域分为堆和栈两个部分|
 |didongke|第351页9.4节|9.4节有四个小节（4种方法），但前面说主要有3种方法，而且两种方法前面加了小方块，会误以为是第一种方法的子方法。|修改为4种方法，SymbolTable Hook下加上Inline Hook，`DYLD_INSERT_LIBRARIES`前加上小方框|
 |didongke|第355页倒数第1行|ishhook写错了|改为fishhook|
 |didongke|第359页9.4.4节的第2行|调用一个方法Objective-C|改为调用一个Objective-C方法|
