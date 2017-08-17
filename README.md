@@ -66,5 +66,8 @@
 |didongke|第351页9.4节|9.4节有四个小节（4种方法），但前面说主要有3种方法，而且两种方法前面加了小方块，会误以为是第一种方法的子方法。|修改为4种方法，SymbolTable Hook下加上Inline Hook，`DYLD_INSERT_LIBRARIES`前加上小方框|
 |didongke|第355页倒数第1行|ishhook写错了|改为fishhook|
 |didongke|第359页9.4.4节的第2行|调用一个方法Objective-C|改为调用一个Objective-C方法|
+|chenxiangfang|第68页表3-2|Int无符号|Int改为有符号|
+
+
 
 
