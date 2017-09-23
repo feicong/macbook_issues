@@ -67,6 +67,7 @@
 |didongke|第355页倒数第1行|ishhook写错了|改为fishhook|
 |didongke|第359页9.4.4节的第2行|调用一个方法Objective-C|改为调用一个Objective-C方法|
 |chenxiangfang|第68页表3-2|Int无符号|Int改为有符号|
+|Huang-Libo|第20页第4行|Base64加密|改为Base64编码|
 
 
 
