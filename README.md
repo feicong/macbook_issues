@@ -76,4 +76,5 @@
 |hyperiris|第93页倒数第5行|在Objective中使用外部|改为在Objective-C中使用外部|
 |eltonto187|第36页第22行|if((fwrite(&currentHeader, sizeof(currentHeader), 1, fp)) != sizeof(currentHeader))|改为if((fwrite(&currentHeader, 1, sizeof(currentHeader), fp)) != sizeof(currentHeader))|
 |eltonto187|第35页倒数第1行|if (argc < 1)|改为 if (argc < 2)|
+|eltonto187|第13页 配图|图1-12中内容错误， jnz loc_100000f13 错误|应改为 jnz loc_100000f06 与书中代码相同，解决方法目前是修图|
 
