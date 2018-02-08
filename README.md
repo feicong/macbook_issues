@@ -69,7 +69,7 @@
 |chenxiangfang|第68页表3-2|Int无符号|Int改为有符号|
 |Huang-Libo|第20页第4行|Base64加密|改为Base64编码|
 |xuanInitial|76页16、18行|sort()|改为sorted()|
-|0xwuyan|第56页第11行|MyObject.m文件的#import "Shape.h"|改为#import "MyObject.h"|
+|0xwuyan/eltonto187|第56页第11行|MyObject.m文件的#import "Shape.h"|改为#import "MyObject.h"|
 |0xwuyan/eltonto187|第57页第18行|-(NSString*)toString;{ 多了一个分号;|去掉分号;|
 |0xwuyan|第63页 表3-1属性参数 原子性 atomic 说明|对方问速度有影响|改为对访问速度有影响|
 |hyperiris|第102页第2行|代码试图|改为代码视图|
