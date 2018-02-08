@@ -74,4 +74,6 @@
 |0xwuyan|第63页 表3-1属性参数 原子性 atomic 说明|对方问速度有影响|改为对访问速度有影响|
 |hyperiris|第102页第2行|代码试图|改为代码视图|
 |hyperiris|第93页倒数第5行|在Objective中使用外部|改为在Objective-C中使用外部|
+|eltonto187|第36页第22行|if((fwrite(&currentHeader, sizeof(currentHeader), 1, fp)) != sizeof(currentHeader))|改为if((fwrite(&currentHeader, 1, sizeof(currentHeader), fp)) != sizeof(currentHeader))|
+|eltonto187|第35页倒数第1行|if (argc < 1)|改为 if (argc < 2)|
 
